@@ -1,7 +1,7 @@
 <div aling="center">
 <h1 aling="center"></></h1>
 </div>
-<img src="https://imgur.com/oK4IH4p">
+<img src="https://imgur.com/oK4IH4p.gif">
 <p align="left">
 </p>
 
